@@ -1,16 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Multivariable Calculus for Engineers"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+# permalink: /teaching/2014-spring-teaching-1
+venue: "The Chinese University of Hong Kong, Faculty of Engineering"
+date: 2023 Spring Term
+location: "Hong Kong"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Introduction of Vector_Class
 ======
 
 Heading 2
