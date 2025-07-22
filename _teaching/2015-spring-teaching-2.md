@@ -4,17 +4,12 @@ collection: teaching
 type: "Postgraduate course"
 # permalink: /teaching/2015-spring-teaching-1
 venue: "The Chinese University of Hong Kong, Department of System Engineering and Engineering Management (SEEM)"
-dates:
-  start: 2023-09-10
-  end: 2023-11-10
-  start: 2024-09-10
-  end: 2024-11-10
-
-
+# dates: 2023-09-10
+time: "2023 Autumn, 2024 Autumn"
 location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Part: Lab class 2 and assignment 2 for 2024, Lab class 1 and assignment 1 for 2024
 
 Heading 1
 ======
