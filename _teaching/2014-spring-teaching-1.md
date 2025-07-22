@@ -4,7 +4,9 @@ collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "The Chinese University of Hong Kong, Faculty of Engineering"
-date: 2024
+dates:
+  start: 2023-03-10
+  end: 2024-05-10
 location: "Hong Kong"
 ---
 
