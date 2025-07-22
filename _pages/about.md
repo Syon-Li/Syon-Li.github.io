@@ -27,6 +27,8 @@ Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong 
 - A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression [ACL 2025]()
 Chenlong Deng, Zhisong Zhang, Kelong Mao, **Shuaiyi Li**, Xinting Huang, Dong Yu, Zhicheng Dou
 
+- DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text [EMNLP 2023 Findings](https://aclanthology.org/2023.findings-emnlp.428/)
+**Shuaiyi Li**, Yang Deng, Lam Wai
 
 
 
