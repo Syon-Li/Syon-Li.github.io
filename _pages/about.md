@@ -15,27 +15,27 @@ My research interests mainly lies in natural language processing (nlp), includin
 
 Selected publications
 ======
-- InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing [arXiv](https://arxiv.org/pdf/2505.22156)
+InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing [arXiv](https://arxiv.org/pdf/2505.22156)
 
 **Shuaiyi Li**, Zhisong Zhang, Yang Deng, ChenLong Deng, Tianqing Fang, Hongming Zhang, Haitao mi, Dong Yu, Lam Wai
 
 
-- Consecutive Batch Model Editing with HooK Layers [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.765/)
+Consecutive Batch Model Editing with HooK Layers [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.765/)
 
 **Shuaiyi Li**, Yang Deng, Deng Cai, Hongyuan Lu, Liang Chen, Lam Wai
 
 
-- Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models [ACL 2025 oral]()
+Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models [ACL 2025 oral]()
 
 Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, **Shuaiyi Li**, Dong Yu
 
 
-- A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression [ACL 2025]()
+A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression [ACL 2025]()
 
 Chenlong Deng, Zhisong Zhang, Kelong Mao, **Shuaiyi Li**, Xinting Huang, Dong Yu, Zhicheng Dou
 
 
-- DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text [EMNLP 2023 Findings](https://aclanthology.org/2023.findings-emnlp.428/)
+DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text [EMNLP 2023 Findings](https://aclanthology.org/2023.findings-emnlp.428/)
 
 **Shuaiyi Li**, Yang Deng, Lam Wai
 
