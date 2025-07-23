@@ -21,11 +21,12 @@ Selected publications [Full list here](https://scholar.google.com/citations?user
   
   **Preprint**
 
-- [Consecutive Batch Model Editing with HooK Layers](https://aclanthology.org/2024.emnlp-main.765/) 
+- [Consecutive Batch Model Editing with HooK Layers](https://aclanthology.org/2024.emnlp-main.765/) <br>
+  **EMNLP 2024**
   
   **Shuaiyi Li**, Yang Deng, Deng Cai, Hongyuan Lu, Liang Chen, Lam Wai
   
-  **EMNLP 2024**
+  
 
 - [Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models](https://arxiv.org/abs/2412.16545)
   
