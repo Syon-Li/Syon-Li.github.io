@@ -13,39 +13,29 @@ My research interests mainly lies in natural language processing (nlp) and deep 
 
 
 
-Selected publications [Full list here](https://scholar.google.com/citations?user=UZe1LdsAAAAJ&hl=en)
+Publications
 ======
-- [InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/pdf/2505.22156)
-  
-  **Shuaiyi Li**, Zhisong Zhang, Yang Deng, ChenLong Deng, Tianqing Fang, Hongming Zhang, Haitao mi, Dong Yu, Lam Wai
-  
+- [InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/pdf/2505.22156)<br>
+  **Shuaiyi Li**, Zhisong Zhang, Yang Deng, ChenLong Deng, Tianqing Fang, Hongming Zhang, Haitao mi, Dong Yu, Lam Wai<br>
   **Preprint**
 
-- [Consecutive Batch Model Editing with HooK Layers](https://aclanthology.org/2024.emnlp-main.765/) <br>
+- [Consecutive Batch Model Editing with HooK Layers](https://aclanthology.org/2024.emnlp-main.765/)<br>
+  **Shuaiyi Li**, Yang Deng, Deng Cai, Hongyuan Lu, Liang Chen, Lam Wai<br>
   **EMNLP 2024**
   
-  **Shuaiyi Li**, Yang Deng, Deng Cai, Hongyuan Lu, Liang Chen, Lam Wai
-  
-  
-
-- [Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models](https://arxiv.org/abs/2412.16545)
-  
-  Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, **Shuaiyi Li**, Dong Yu
-  
+- [Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models](https://arxiv.org/abs/2412.16545)<br>
+  Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, **Shuaiyi Li**, Dong Yu<br>
   **ACL 2025 oral**
 
-- [A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression](https://arxiv.org/abs/2412.17483) 
-  
-  Chenlong Deng, Zhisong Zhang, Kelong Mao, **Shuaiyi Li**, Xinting Huang, Dong Yu, Zhicheng Dou
-  
+- [A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression](https://arxiv.org/abs/2412.17483)<br>
+  Chenlong Deng, Zhisong Zhang, Kelong Mao, **Shuaiyi Li**, Xinting Huang, Dong Yu, Zhicheng Dou<br>
   **ACL 2025**
 
-- [DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text](https://aclanthology.org/2023.findings-emnlp.428/) 
-  
-  **Shuaiyi Li**, Yang Deng, Lam Wai
-  
+- [DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text](https://aclanthology.org/2023.findings-emnlp.428/)<br>
+  **Shuaiyi Li**, Yang Deng, Lam Wai<br>
   **EMNLP 2023 Findings**
 
+Check my [google scholar](https://scholar.google.com/citations?user=UZe1LdsAAAAJ&hl=en) for full publication list.
 
 Experience
 ======
