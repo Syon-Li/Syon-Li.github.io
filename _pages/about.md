@@ -9,7 +9,7 @@ redirect_from:
 
 Greetings! I am a third-year PhD student from the Chinese University of Hong Kong (CUHK) and I am honored to be supervised by [Prof. LAM, Wai](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). Previously, I received my Master degree from King's College London.
 
-My research interests mainly lies in natural language processing (nlp) and deep learning. Specifically, 
+My research interests mainly lies in natural language processing (nlp) and deep learning. Specifically, I am super interested in exploring the internal mechanism of LLMs ([CoachHooK](https://aclanthology.org/2024.emnlp-main.765/)) and imporving the effectiveness and efficiency of it consequently ([InComeS](https://arxiv.org/pdf/2505.22156)).
 
 
 
