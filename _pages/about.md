@@ -9,7 +9,7 @@ redirect_from:
 
 Greetings! I am a third-year PhD student from the Chinese University of Hong Kong (CUHK) and I am honored to be supervised by [Prof. LAM, Wai](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). Previously, I received my Master degree from King's College London.
 
-My research interests mainly lies in natural language processing (nlp) and deep learning. Specifically, I am super interested in exploring the internal mechanism of LLMs ([CoachHooK](https://aclanthology.org/2024.emnlp-main.765/)) and imporving the effectiveness and efficiency of it consequently ([InComeS](https://arxiv.org/pdf/2505.22156)).
+My research interests mainly lies in natural language processing (nlp) and deep learning. Specifically, I am super interested in the internal mechanism of LLMs ([CoachHooK](https://aclanthology.org/2024.emnlp-main.765/)) and exploring possible improvement of the model architecture ([InComeS](https://arxiv.org/pdf/2505.22156)) for better effectiveness and efficiency.
 
 
 
@@ -40,6 +40,18 @@ Check my [google scholar](https://scholar.google.com/citations?user=UZe1LdsAAAAJ
 Experience
 ======
 - March 2024 - Now, Research Intern, Tencent AI Lab, mentor: [Zhisong Zhang](https://scholar.google.com/citations?hl=en&user=373vlUEAAAAJ)
+
+Teaching
+======
+- Multivariable Calculus for Engineers, 
+  Type: Undergraduate course, 
+  Time: 2023 Spring
+  Teaching Part: Introduction of Vector_Class, Double Integral_Class_A
+
+- E-Commerce Data Mining Technique,
+  Type: Postgraduate course,
+  Time: 2023 Autumn, 2024 Autumn
+  Teaching Part: Lab class 2 and assignment 2 for 2024, Lab class 1 and assignment 1 for 2024
 
 
 <!-- A data-driven personal website
