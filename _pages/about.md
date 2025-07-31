@@ -43,15 +43,15 @@ Experience
 
 Teaching
 ======
-- Multivariable Calculus for Engineers, 
-  Type: Undergraduate course, 
-  Time: 2023 Spring
+- Multivariable Calculus for Engineers<br>
+  Type: Undergraduate course<br>
+  Time: 2023 Spring<br>
   Teaching Part: Introduction of Vector_Class, Double Integral_Class_A
 
-- E-Commerce Data Mining Technique,
-  Type: Postgraduate course,
-  Time: 2023 Autumn, 2024 Autumn
-  Teaching Part: Lab class 2 and assignment 2 for 2024, Lab class 1 and assignment 1 for 2024
+- E-Commerce Data Mining Technique<br>
+  Type: Postgraduate course<br>
+  Time: 2023 Autumn, 2024 Autumn<br>
+  Teaching Part: Lab class 2 and assignment 2 for 2024, Lab class 1 and assignment 1 for 2024<br>
 
 
 <!-- A data-driven personal website
