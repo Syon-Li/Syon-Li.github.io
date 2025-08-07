@@ -39,7 +39,8 @@ Check my [google scholar](https://scholar.google.com/citations?user=UZe1LdsAAAAJ
 
 Experience
 ======
-- March 2024 - Now, Research Intern, Tencent AI Lab, mentor: [Zhisong Zhang](https://scholar.google.com/citations?hl=en&user=373vlUEAAAAJ)
+- August 2025 - Now, Research Intern, Tencent AI Lab, mentor: [Yan Wang](https://scholar.google.com/citations?hl=en&user=L6viCbQAAAAJ)
+- March 2024 - July 2025, Research Intern, Tencent AI Lab, mentor: [Zhisong Zhang](https://scholar.google.com/citations?hl=en&user=373vlUEAAAAJ)
 
 Teaching
 ======
