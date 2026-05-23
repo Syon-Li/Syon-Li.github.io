@@ -7,16 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a third-year PhD student from the Chinese University of Hong Kong (CUHK) and I am honored to be supervised by [Prof. LAM, Wai](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). Previously, I received my Master degree from King's College London.
+Greetings! I am a year 4 PhD student from the Chinese University of Hong Kong (CUHK) and I am honored to be supervised by [Prof. LAM, Wai](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). Previously, I received my Master degree from King's College London.
 
-My research interests mainly lies in natural language processing (nlp) and deep learning. Specifically, I am super interested in the internal mechanism of LLMs ([CoachHooK](https://aclanthology.org/2024.emnlp-main.765/)) and exploring possible improvement of the model architecture ([InComeS](https://arxiv.org/pdf/2505.22156)) for better effectiveness and efficiency. I am recently working on parallel encoding, feel free to get contact me!
+<!-- My research interests mainly lies in natural language processing (nlp) and deep learning. Specifically, I am super interested in the internal mechanism of LLMs ([CoachHooK](https://aclanthology.org/2024.emnlp-main.765/)) and exploring possible improvement of the model architecture ([InComeS](https://arxiv.org/pdf/2505.22156)) for better effectiveness and efficiency. I am recently working on parallel encoding, feel free to get contact me! -->
 
+My previous work generally focus on Parallel Context Encoding, Context Compression, Block Attention, and Internal mechanism of LLM ([CoachHooK](https://aclanthology.org/2024.emnlp-main.765/)). Specifically, my recent work explored the [generalization of block attention](https://arxiv.org/abs/2605.15913), which constructs a general semantic [segmenter](https://huggingface.co/Syon-Li/Qwen3-4B-Instruct-2507-Segmenter) and designs a more efficiency and effective training paradigm. The general block attention could help the KV cache reuse **across prompts** and has broad application scenarios in **Agents**. I also studied an elegant way of parallel context encoding and compression ([InComeS](https://arxiv.org/pdf/2505.22156)), which increases considerably the efficiency of ICL.
+
+Feel free to contact (li_shuaiyi2021@outlook) if you want more discussion.
 
 
 Publications
 ======
 - [Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation](https://arxiv.org/abs/2605.15913)<br>
   **Shuaiyi Li**, Zhisong Zhang, Yan Wang, Lei Zhu, Dongyang Ma, Chenlong Deng, Yang Deng, Lam Wai<br>
+  - Enable extreme KV cache reuse **across prompts**
+  - Has broad application scenarios like **coding agent** and **multi-turn agentic workflows**
   **Under review**
 
 - [InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/pdf/2505.22156)<br>
