@@ -15,44 +15,57 @@ My research interests mainly lies in natural language processing (nlp) and deep 
 
 Publications
 ======
+- [Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation](https://arxiv.org/abs/2605.15913)<br>
+  **Shuaiyi Li**, Zhisong Zhang, Yan Wang, Lei Zhu, Dongyang Ma, Chenlong Deng, Yang Deng, Lam Wai<br>
+  **Under review**
+
 - [InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/pdf/2505.22156)<br>
   **Shuaiyi Li**, Zhisong Zhang, Yang Deng, ChenLong Deng, Tianqing Fang, Hongming Zhang, Haitao mi, Dong Yu, Lam Wai<br>
   **Preprint**
-
-- [Consecutive Batch Model Editing with HooK Layers](https://aclanthology.org/2024.emnlp-main.765/)<br>
-  **Shuaiyi Li**, Yang Deng, Deng Cai, Hongyuan Lu, Liang Chen, Lam Wai<br>
-  **EMNLP 2024**
   
 - [Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models](https://arxiv.org/abs/2412.16545)<br>
   Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, **Shuaiyi Li**, Dong Yu<br>
   **ACL 2025 oral**
 
-- [A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression](https://arxiv.org/abs/2412.17483)<br>
-  Chenlong Deng, Zhisong Zhang, Kelong Mao, **Shuaiyi Li**, Xinting Huang, Dong Yu, Zhicheng Dou<br>
-  **ACL 2025**
+- [UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression](https://arxiv.org/abs/2509.15763)<br>
+  Chenlong Deng, Zhisong Zhang, Kelong Mao, **Shuaiyi Li**, Tianqing Fang, Hongming Zhang, Haitao Mi, Dong Yu, Zhicheng Dou<br>
+  **Neurips 2025**
 
-- [DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text](https://aclanthology.org/2023.findings-emnlp.428/)<br>
+- [Consecutive Batch Model Editing with HooK Layers](https://aclanthology.org/2024.emnlp-main.765/)<br>
+  **Shuaiyi Li**, Yang Deng, Deng Cai, Hongyuan Lu, Liang Chen, Lam Wai<br>
+  **EMNLP 2024**
+
+<!-- - [DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text](https://aclanthology.org/2023.findings-emnlp.428/)<br>
   **Shuaiyi Li**, Yang Deng, Lam Wai<br>
-  **EMNLP 2023 Findings**
+  **EMNLP 2023 Findings** -->
 
 Check my [google scholar](https://scholar.google.com/citations?user=UZe1LdsAAAAJ&hl=en) for full publication list.
 
 Experience
 ======
-- August 2025 - Now, Research Intern, Tencent AI Lab, mentor: [Yan Wang](https://scholar.google.com/citations?hl=en&user=L6viCbQAAAAJ)
-- March 2024 - July 2025, Research Intern, Tencent AI Lab, mentor: [Zhisong Zhang](https://scholar.google.com/citations?hl=en&user=373vlUEAAAAJ)
+- March 2024 - March 2026, Research Intern, Tencent, mentor: [Zhisong Zhang](https://scholar.google.com/citations?hl=en&user=373vlUEAAAAJ) and [Yan Wang](https://scholar.google.com/citations?hl=en&user=L6viCbQAAAAJ)
+<!-- - August 2025 - Now, Research Intern, Tencent AI Lab, mentor: [Yan Wang](https://scholar.google.com/citations?hl=en&user=L6viCbQAAAAJ)
+- March 2024 - July 2025, Research Intern, Tencent AI Lab, mentor: [Zhisong Zhang](https://scholar.google.com/citations?hl=en&user=373vlUEAAAAJ) -->
 
 Teaching
 ======
-- Multivariable Calculus for Engineers<br>
+- Information System Management<br>
   Type: Undergraduate course<br>
-  Time: 2023 Spring<br>
-  Teaching Part: Introduction of Vector_Class, Double Integral_Class_A
+  Time: 2025-2026 2nd term<br>
+
+- Computer Processing System Concepts<br>
+  Type: Undergraduate course<br>
+  Time: 2025-2026 1st term<br>
 
 - E-Commerce Data Mining Technique<br>
   Type: Postgraduate course<br>
-  Time: 2023 Autumn, 2024 Autumn<br>
-  Teaching Part: Lab class 2 and assignment 2 for 2024, Lab class 1 and assignment 1 for 2024<br>
+  Time: 2023-2024 1st term, 2024-2025 1st term<br>
+  <!-- Teaching Part: Lab class 2 and assignment 2 for 2024, Lab class 1 and assignment 1 for 2024<br> -->
+
+- Multivariable Calculus for Engineers<br>
+  Type: Undergraduate course<br>
+  Time: 2022-2023 2nd term, 2023-2024 1st term<br>
+  <!-- Teaching Part: Introduction of Vector_Class, Double Integral_Class_A -->
 
 
 <!-- A data-driven personal website
