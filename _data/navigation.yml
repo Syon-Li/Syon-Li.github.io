@@ -24,7 +24,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/CV-Syon.pdf
+    url: <a href="files/CV-Syon.pdf" title="Shuaiyi Li - CV" target="_blank">CV</a>
+    # url: /files/CV-Syon.pdf
     
   # - title: "CV"
   #   url: /cv-json/
