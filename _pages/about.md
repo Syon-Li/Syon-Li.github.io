@@ -20,16 +20,16 @@ Publications
 ======
 - [Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation](https://arxiv.org/abs/2605.15913)<br>
   **Shuaiyi Li**, Zhisong Zhang, Yan Wang, Lei Zhu, Dongyang Ma, Chenlong Deng, Yang Deng, Lam Wai<br>
-  **Under review**
   - Enable extreme KV cache reuse **across prompts**
   - Has broad application scenarios like **coding agent** and **multi-turn agentic workflows**
+  **Under review**
 
 
 - [InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/pdf/2505.22156)<br>
   **Shuaiyi Li**, Zhisong Zhang, Yang Deng, ChenLong Deng, Tianqing Fang, Hongming Zhang, Haitao mi, Dong Yu, Lam Wai<br>
-  **ARR Mar Avg 3.33 Meta 3.5**
   - A finer token-level RAG
   - Increase the efficiency of ICL while maintaining its flexibility
+  **ARR Mar Avg 3.33 Meta 3.5**
   
 - [Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models](https://arxiv.org/abs/2412.16545)<br>
   Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, **Shuaiyi Li**, Dong Yu<br>
