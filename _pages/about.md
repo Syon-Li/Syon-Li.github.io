@@ -19,14 +19,14 @@ Feel free to contact (li_shuaiyi2021@outlook) if you want more discussion.
 Publications
 ======
 - [Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation](https://arxiv.org/abs/2605.15913)<br>
-  - Enable extreme KV cache reuse **across prompts**<br>
-  - Has broad application scenarios like **coding agent** and **multi-turn agentic workflows**<br>
+  Enable extreme KV cache reuse **across prompts**<br>
+  Has broad application scenarios like **coding agent** and **multi-turn agentic workflows**<br>
   **Shuaiyi Li**, Zhisong Zhang, Yan Wang, Lei Zhu, Dongyang Ma, Chenlong Deng, Yang Deng, Lam Wai<br>
   **Under review**
 
 - [InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/pdf/2505.22156)<br>
-  - A finer token-level RAG<br>
-  - Increase the efficiency of ICL while maintaining its flexibility<br>
+  A finer token-level RAG<br>
+  Increase the efficiency of ICL while maintaining its flexibility<br>
   **Shuaiyi Li**, Zhisong Zhang, Yang Deng, ChenLong Deng, Tianqing Fang, Hongming Zhang, Haitao mi, Dong Yu, Lam Wai<br>
   **ARR Mar Avg 3.33 Meta 3.5**
   
