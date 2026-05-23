@@ -19,27 +19,27 @@ Feel free to contact (li_shuaiyi2021@outlook) if you want more discussion.
 Publications
 ======
 - [Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation](https://arxiv.org/abs/2605.15913)<br>
-  Enable extreme KV cache reuse **across prompts**<br>
-  Has broad application scenarios like **coding agent** and **multi-turn agentic workflows**<br>
-  **Shuaiyi Li**, Zhisong Zhang, Yan Wang, Lei Zhu, Dongyang Ma, Chenlong Deng, Yang Deng, Lam Wai<br>
+  "-" Enable extreme KV cache reuse **across prompts**<br>
+  "-" Has broad application scenarios like **coding agent** and **multi-turn agentic workflows**<br>
+  Authors: **Shuaiyi Li**, Zhisong Zhang, Yan Wang, Lei Zhu, Dongyang Ma, Chenlong Deng, Yang Deng, Lam Wai<br>
   **Under review**
 
 - [InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/pdf/2505.22156)<br>
   A finer token-level RAG<br>
   Increase the efficiency of ICL while maintaining its flexibility<br>
-  **Shuaiyi Li**, Zhisong Zhang, Yang Deng, ChenLong Deng, Tianqing Fang, Hongming Zhang, Haitao mi, Dong Yu, Lam Wai<br>
+  Authors: **Shuaiyi Li**, Zhisong Zhang, Yang Deng, ChenLong Deng, Tianqing Fang, Hongming Zhang, Haitao mi, Dong Yu, Lam Wai<br>
   **ARR Mar Avg 3.33 Meta 3.5**
   
 - [Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models](https://arxiv.org/abs/2412.16545)<br>
-  Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, **Shuaiyi Li**, Dong Yu<br>
+  Authors: Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, **Shuaiyi Li**, Dong Yu<br>
   **ACL 2025 oral**
 
 - [UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression](https://arxiv.org/abs/2509.15763)<br>
-  Chenlong Deng, Zhisong Zhang, Kelong Mao, **Shuaiyi Li**, Tianqing Fang, Hongming Zhang, Haitao Mi, Dong Yu, Zhicheng Dou<br>
+  Authors: Chenlong Deng, Zhisong Zhang, Kelong Mao, **Shuaiyi Li**, Tianqing Fang, Hongming Zhang, Haitao Mi, Dong Yu, Zhicheng Dou<br>
   **Neurips 2025**
 
 - [Consecutive Batch Model Editing with HooK Layers](https://aclanthology.org/2024.emnlp-main.765/)<br>
-  **Shuaiyi Li**, Yang Deng, Deng Cai, Hongyuan Lu, Liang Chen, Lam Wai<br>
+  Authors: **Shuaiyi Li**, Yang Deng, Deng Cai, Hongyuan Lu, Liang Chen, Lam Wai<br>
   **EMNLP 2024**
 
 <!-- - [DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text](https://aclanthology.org/2023.findings-emnlp.428/)<br>
