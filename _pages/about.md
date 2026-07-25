@@ -50,8 +50,8 @@ Check my [google scholar](https://scholar.google.com/citations?user=UZe1LdsAAAAJ
 
 Experience
 ======
-March 2024 - March 2026, Research Intern, Tencent
-- Mentor: [Zhisong Zhang](https://scholar.google.com/citations?hl=en&user=373vlUEAAAAJ) and [Yan Wang](https://scholar.google.com/citations?hl=en&user=L6viCbQAAAAJ)
+March 2024 - March 2026, Tencent, Research Intern
+- Mentor: [Dr. Zhisong Zhang](https://scholar.google.com/citations?hl=en&user=373vlUEAAAAJ) and [Dr. Yan Wang](https://scholar.google.com/citations?hl=en&user=L6viCbQAAAAJ)
 - Complete two projects about LLM. Topic in parallel encoding, block attention, and compression.
 
 
