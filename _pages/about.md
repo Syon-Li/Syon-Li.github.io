@@ -60,7 +60,7 @@ March 2024 - March 2026, Tencent, Research Intern
 
 Community Service
 ======
-Reviewer for ICML, ICLR, Neurips, ACL, and EMNLP.
+Reviewer for ICML, ICLR, NeurIPS, ACL, and EMNLP.
 
 Teaching
 ======
