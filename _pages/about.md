@@ -22,7 +22,7 @@ Publications
   \- Enable extreme KV cache reuse **across prompts**<br>
   \- Has broad application scenarios like **coding agent** and **multi-turn agentic workflows**<br>
   Authors: **Shuaiyi Li**, Zhisong Zhang, Yan Wang, Lei Zhu, Dongyang Ma, Chenlong Deng, Yang Deng, Lam Wai<br>
-  **Under review**
+  **NeurIPS 2026 Avg.4**
 
 - [InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/pdf/2505.22156)<br>
   \- A finer token-level RAG<br>
@@ -36,7 +36,7 @@ Publications
 
 - [UniGist: Towards General and Hardware-aligned Sequence-level Long Context Compression](https://arxiv.org/abs/2509.15763)<br>
   Authors: Chenlong Deng, Zhisong Zhang, Kelong Mao, **Shuaiyi Li**, Tianqing Fang, Hongming Zhang, Haitao Mi, Dong Yu, Zhicheng Dou<br>
-  **Neurips 2025**
+  **NeurIPS 2025**
 
 - [Consecutive Batch Model Editing with HooK Layers](https://aclanthology.org/2024.emnlp-main.765/)<br>
   Authors: **Shuaiyi Li**, Yang Deng, Deng Cai, Hongyuan Lu, Liang Chen, Lam Wai<br>
