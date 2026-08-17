@@ -19,8 +19,8 @@ Feel free to contact (li_shuaiyi2021@outlook) if you want more discussion.
 Publications
 ======
 - [Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation](https://arxiv.org/abs/2605.15913)<br>
-  \- Enable extreme KV cache reuse **across prompts**<br>
-  \- Has broad application scenarios like **coding agent** and **multi-turn agentic workflows**<br>
+    - Enable extreme KV cache reuse \textbf{across prompts}<br>
+    - Has broad application scenarios in \textbf{Long-horizon agent tasks} like coding, multi-turn agentic workflows, etc<br>
   Authors: **Shuaiyi Li**, Zhisong Zhang, Yan Wang, Lei Zhu, Dongyang Ma, Chenlong Deng, Yang Deng, Lam Wai<br>
   **NeurIPS 2026 Avg.4**
 
