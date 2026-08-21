@@ -34,7 +34,7 @@ Publications
     \- A finer token-level RAG<br>
     \- Increase the efficiency of ICL while maintaining its flexibility<br>
   Authors: **Shuaiyi Li**, Zhisong Zhang, Yang Deng, ChenLong Deng, Tianqing Fang, Hongming Zhang, Haitao mi, Dong Yu, Lam Wai<br>
-  **ARR Mar Avg 3.33 Meta 3.5**
+  **EMNLP 2026**
   
 - [Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models](https://arxiv.org/abs/2412.16545)<br>
   Authors: Zhisong Zhang, Yan Wang, Xinting Huang, Tianqing Fang, Hongming Zhang, Chenlong Deng, **Shuaiyi Li**, Dong Yu<br>
