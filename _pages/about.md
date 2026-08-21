@@ -16,6 +16,12 @@ My previous work generally focus on Parallel Context Encoding, Context Compressi
 Feel free to contact (li_shuaiyi2021@outlook) if you want more discussion.
 
 
+News
+======
+- The [Huggingface Repo](https://huggingface.co/collections/Syon-Li/generalization-of-block-attention) and [ModelScope Repo](https://www.modelscope.cn/collections/SyonLi/Generalization-of-Block-Attention) of my recent work [generalization of block attention](https://arxiv.org/abs/2605.15913) have been released, feel free to check out.
+- One paper has been accepted as a Main Conference to EMNLP 2026.
+
+
 Publications
 ======
 - [Towards Generalization of Block Attention via Automatic Segmentation and Block Distillation](https://arxiv.org/abs/2605.15913)<br>
@@ -48,6 +54,7 @@ Publications
 
 Check my [google scholar](https://scholar.google.com/citations?user=UZe1LdsAAAAJ&hl=en) for full publication list.
 
+
 Experience
 ======
 March 2024 - March 2026, Tencent, Research Intern
@@ -58,9 +65,11 @@ March 2024 - March 2026, Tencent, Research Intern
 <!-- - August 2025 - Now, Research Intern, Tencent AI Lab, mentor: [Yan Wang](https://scholar.google.com/citations?hl=en&user=L6viCbQAAAAJ)
 - March 2024 - July 2025, Research Intern, Tencent AI Lab, mentor: [Zhisong Zhang](https://scholar.google.com/citations?hl=en&user=373vlUEAAAAJ) -->
 
+
 Community Service
 ======
 Reviewer for ICML, ICLR, NeurIPS, ACL, and EMNLP.
+
 
 Teaching
 ======
